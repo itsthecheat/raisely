@@ -10,7 +10,7 @@ export default () => (
     <Col >
 
   <h1>Leslie Behum // Customer Success Engineer</h1>
-  <h5><a href="maito:llaurenb@gmail.com">llaurenb@gmail.com</a> | <a href="http://www.github.com/itsthecheat">http://www.github.com/itsthecheat</a></h5>
+  <h5><a href="maito:llaurenb@gmail.com">llaurenb@gmail.com</a> | <a href="https://www.github.com/itsthecheat">http://www.github.com/itsthecheat</a></h5>
 
     </Col>
   </Row>
