@@ -120,7 +120,7 @@ export default() => <div>
     </Accordion>
 
 
-    <iframe title="donate to we love dogs" src='https://we-love-dogs.raisely.com/embed/' style={{
+    <iframe referrerpolicy="origin" title="donate to we love dogs" src='https://we-love-dogs.raisely.com/embed/' style={{
         width: '100%',
         height: '600px',
         border: '0'
