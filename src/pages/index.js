@@ -7,7 +7,7 @@ import {Accordion, Card, Container, ListGroup} from 'react-bootstrap'
 import "./global.css"
 import Header from '../components/Header'
 
-export default() => <div> 
+export default() => <div>
   <Header/>
   <Container>
     <Accordion>
@@ -120,7 +120,7 @@ export default() => <div>
     </Accordion>
 
 
-    <iframe src='https://we-love-dogs.raisely.com/embed/' style={{
+    <iframe title="donate to we love dogs" src='https://we-love-dogs.raisely.com/embed/' style={{
         width: '100%',
         height: '600px',
         border: '0'
