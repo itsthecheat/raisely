@@ -1,0 +1,24 @@
+.card {
+  background-color: transparent;
+  border: 0;
+}
+.card-header {
+  border-bottom: 0;
+  background-color: transparent;
+}
+.card-body {
+  padding-left: 3.5rem;
+}
+span {
+  padding: 5px;
+}
+.list-group-item {
+  border: 0;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: #C5A1FF;
+  text-decoration: none;
+}
