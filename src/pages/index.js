@@ -7,11 +7,11 @@ import {Accordion, Card, Container, ListGroup} from 'react-bootstrap'
 import "./global.css"
 import Header from '../components/Header'
 
-export default() => <div>
+export default() => <div> 
   <Header/>
   <Container>
     <Accordion>
-      
+
       <Card>
         <Card.Header>
           <Accordion.Toggle as={Card.Header} variant="link" eventKey="0">
